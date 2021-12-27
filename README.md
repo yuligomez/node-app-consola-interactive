@@ -5,10 +5,10 @@
 
 `1) npm init -y —> crea package.json`
 
-# instalación de paquetes de terceros 
+# instalación de paquetes  
 
-2) npm install colors —> instalo paquetes de colores
+2) npm install colors 
 
-3) npm i inquirer> instalo paquete inquirer una colección de interfaces de usuario de línea de comandos interactivas comunes. 
+3) npm i inquirer (interfaces de usuario de línea de comandos interactivas)
 
-4) npm i uuid -> instalo uuid para generar ids
+4) npm i uuid 
